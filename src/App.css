@@ -13,6 +13,21 @@
   }
 }
 
+.App{
+  text-align: center;
+}
+
+.para{
+  position: absolute;
+    /* margin-bottom: 0%; */
+    top: 9%;
+    left: 48%;
+}
+
+.center{
+  text-align: center;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
